@@ -3,6 +3,7 @@
 Primeiro trabalho de laboratório da matéria de aeds2, feito no coreu, com o professor Felipe.
 Irei anotar todas as questões e suas notas com a norma de arredondamento da plataforma de correção **Verde**.
 São 2 porcentagens, a primeira pública a segunda privada, a primeira consiste na entrada e saida padrão, a segunda é para fazer mais testes e ver se o programa está rodando bem
+Para acessar o pdf das questões clique [AQUI](https://github.com/viniciushgiovanini/tp012021-2/blob/master/tp1.pdf)
 
 ## Notas e Questões ##
 

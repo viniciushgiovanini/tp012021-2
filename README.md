@@ -1,4 +1,4 @@
-# Tabalho Prático 1 #
+# Trabalho Prático 1 #
 
 Primeiro trabalho de laboratório da matéria de aeds2, feito no coreu, com o professor Felipe.
 Irei anotar todas as questões e suas notas com a norma de arredondamento da plataforma de correção **Verde**.

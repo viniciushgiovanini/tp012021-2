@@ -23,7 +23,7 @@ São 2 porcentagens, a primeira pública a segunda privada, a primeira consiste 
 **Q15 - IS REC (JAVA)**: 100% 100%  
 
 
-## Arquivos Enviado ##
+## Arquivos Enviados ##
 
 **Q1 - Palindromo (JAVA)**: palindromo.java    
 **Q2 - Palindromo (C)**: palindromo.c  
